@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Raya682
+- 🌱 I’m currently learning Android Development using Java and Kotlin
+- 📫 How to reach me rayashahin9@gmail.com
+- 😄 Pronouns: Raya :)
+- ⚡ Fun fact: Coding is driving me insane hehe
